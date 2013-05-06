@@ -1,0 +1,6 @@
+{
+    "output": "pinball.js",
+    "paths": {
+        "src" : "/"
+    }
+}
